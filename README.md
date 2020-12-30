@@ -2,7 +2,7 @@
 
 Parallel algorithms homework. Wikipedia scraping with Map - Reduce.
 
-## I   Accessing Wikipedia through MapReduce (#general-info)
+## I   Accessing Wikipedia through MapReduce
 
 Filtering titles and reading page summary (First few lines).
 Translation of the text to the desired language pack.
