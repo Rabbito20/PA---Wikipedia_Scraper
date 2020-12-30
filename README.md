@@ -9,4 +9,6 @@ Translation of the text to the desired language pack.
 
 ## II  Counting words in the text and bag-of-words
 
+Extracts most common words and rarely used words.
+
 ## III K-means Clustering a list of vectors
