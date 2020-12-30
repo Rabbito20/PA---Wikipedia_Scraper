@@ -1,4 +1,4 @@
-# PA---Wikipedia_Scraper
+# PA-Wikipedia_Scraper
 
 Parallel algorithms homework. Wikipedia scraping with Map - Reduce.
 
