@@ -9,7 +9,7 @@ import transliterate as tr
 import time
 from functools import reduce
 import collections
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup       #   We are not using this
 import numpy as np
 
 #   I deo - pristup tekstu za wikipedije
